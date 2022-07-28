@@ -79,29 +79,9 @@
 
 <br/>  
 
-  
-
-<br/>  
-
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=iambestday&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
 
 <br />
 
