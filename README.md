@@ -1,7 +1,7 @@
 
   
 
-### <div align="center">I'm B E H R O U Z Front-end Developer 👨‍💻 </div>  
+### <div align="center">I'm    B E H R O U Z   Front-end Developer 👨‍💻 </div>  
   
 
 - 🌱 I’m currently learning React.js / Next.js ...  
