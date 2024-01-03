@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Behrouz</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iambestday&label=Profile%20views&color=0e75b6&style=flat" alt="iambestday" /> </p>
 
 <h3 align="left">Connect with me: iambestday[at]gmail.com</h3>
